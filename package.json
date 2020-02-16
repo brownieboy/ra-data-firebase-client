@@ -35,8 +35,11 @@
     "url": "https://github.com/aymendhaya/ra-data-firebase-client.git"
   },
   "peerDependencies": {
+    "firebase": "^5.5.0",
+    "prop-types": "^15.6.0",
     "react": "16.5.0",
-    "react-dom": "16.5.0"
+    "react-admin": "^2.3.2",
+    "react-dom": "^16.5.0"
   },
   "devDependencies": {
     "autoprefixer": "^9.1.5",
@@ -90,11 +93,6 @@
     "whatwg-fetch": "^3.0.0"
   },
   "dependencies": {
-    "firebase": "^5.5.0",
-    "prop-types": "^15.6.0",
-    "react": "16.5.0",
-    "react-admin": "^2.3.2",
-    "react-dom": "^16.5.0",
     "sort-by": "^1.2.0"
   }
 }
